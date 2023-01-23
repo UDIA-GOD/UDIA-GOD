@@ -1,16 +1,16 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"/>, I'm AvileForsure</h1>
-<h3 align="center">I'm a passionate Blockchain Developer from Poland.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"/>, I'm UDIA</h1>
+<h3 align="center">I'm a passionate Developer from Poland.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Solidity, Rust and Hashing Algorithms.**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://avileforsure.is-a-good.dev)**
+- 👨‍💻 You can check more info about me on **[My Site](https://udia.dev)**
 
-- 📫 How to reach me **avileforsure@protonmail.com**
+- 📫 How to reach me **admin@udia.dev**
 
 - ⚡ Fun fact **I learn how to play a guitar.**
 
