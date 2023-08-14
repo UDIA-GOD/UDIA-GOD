@@ -54,11 +54,11 @@ Windows Registry Editor Version 5.00
 "bUseSocks"=dword:00000000
 "UseHttpsProxy"=dword:00000000
 "isUseWinDialUp"=dword:00000000
-"ConnectionType"=dword:00000000
-"NewConnType"=dword:00000000
-"ConnectionSpeed"=dword:00000000
-"sls_maxSpeed"=dword:0000000a
-"MaxConnectionsNumber"=dword:00000008
+"ConnectionType"=dword:0000000a
+"NewConnType"=dword:00000003
+"ConnectionSpeed"=dword:3b9ac9ff
+"sls_maxSpeed"=dword:3b9ac9ff
+"MaxConnectionsNumber"=dword:00000010
 "tvfrdt"=dword:77fe9492
 "ToolbarState_v5.11"=hex:15,80,00,00,16,80,00,00,17,80,00,00,18,80,00,00,19,80,\
   00,00,1a,80,00,00,1b,80,00,00,1e,80,00,00,ee,84,00,00,ef,84,00,00,f2,80,00,\
