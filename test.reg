@@ -1,0 +1,274 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager]
+"LanguageID"=dword:00000015
+"LIDwa"=dword:00000001
+"bShLc2"=dword:00000001
+"AppDataIDMFolder"="C:\\Users\\gvjhbvjhbmnblk\\AppData\\Roaming\\IDM\\"
+"CommonAppDataIDMFolder"="C:\\ProgramData\\IDM\\"
+"bRmGUCfEx"=dword:00000001
+"ExceptionServers"="*.update.microsoft.com download.windowsupdate.com *.download.windowsupdate.com siteseal.thawte.com ecom.cimetz.com *.voice2page.com"
+"EnableDriver"=dword:00000001
+"FSPSSettingsChecked"=dword:00000001
+"FSSettingsChecked"=dword:00000001
+"mzcc_ext_vers"=dword:00011da0
+"intAOFRWE"=dword:00000001
+"bShInstChromeExtTip"=dword:00000000
+"mzcc_vers"=dword:0000f43e
+"lastintres"=dword:00000001
+"Extensions"="3GP 7Z AAC ACE AIF APK ARJ ASF AVI BIN BZ2 EXE GZ GZIP IMG ISO LZH M4A M4V MKV MOV MP3 MP4 MPA MPE MPEG MPG MSI MSU OGG OGV PDF PLJ PPS PPT QT R0* R1* RA RAR RM RMVB SEA SIT SITX TAR TIF TIFF WAV WMA WMV Z ZIP"
+"LocalPathW"=hex(0):43,00,3a,00,5c,00,55,00,73,00,65,00,72,00,73,00,5c,00,67,\
+  00,76,00,6a,00,68,00,62,00,76,00,6a,00,68,00,62,00,6d,00,6e,00,62,00,6c,00,\
+  6b,00,5c,00,44,00,6f,00,77,00,6e,00,6c,00,6f,00,61,00,64,00,73,00,5c,00,00,\
+  00
+"TempPath"="C:\\Users\\gvjhbvjhbmnblk\\AppData\\Roaming\\IDM\\"
+"FindApps"=dword:00000000
+"ExePath"="C:\\Program Files (x86)\\Internet Download Manager\\IDMan.exe"
+"idmvers"="v6.41b18 Trial"
+"LstCheck"="08/14/23"
+"LaunchOnStart"=dword:00000001
+"RememberLastSave"=dword:00000001
+"MonitorUrlClipboard"=dword:00000000
+"UseHttpProxy"=dword:00000000
+"UseFtpProxy"=dword:00000000
+"FtpPasive"=dword:00000000
+"radxcnt"=dword:00000007
+"nDESC7"=dword:00000001
+"nDESC8"=dword:00000001
+"isSSW_OK"=dword:00000000
+"PanelExceptionServers"="*.gstatic.com media.tenor.co media*.giphy.com"
+"windowPlacementV6"=hex(0):2c,00,00,00,00,00,00,00,01,00,00,00,00,83,ff,ff,00,\
+  83,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,4f,01,00,00,d0,01,00,00,7d,04,00,00,a1,03,\
+  00,00
+"sortOrder"=dword:00000000
+"LargeButtons"=dword:00000001
+"ToolbarStyle"="Neon"
+"rshext"=dword:00000001
+"TrayIcon"=dword:00000001
+"vCOUFP"="641b18"
+"RunIEMonitor2"=dword:00000000
+"TipTimeStamp"="Thu Aug 03 23:54:53 2023"
+"TipStartUp"=dword:00000001
+"TipFilePos"=dword:000004a1
+"LastCheckQU"=dword:64da9eb5
+"bUseSocks"=dword:00000000
+"UseHttpsProxy"=dword:00000000
+"isUseWinDialUp"=dword:00000000
+"ConnectionType"=dword:00000000
+"NewConnType"=dword:00000000
+"ConnectionSpeed"=dword:00000000
+"sls_maxSpeed"=dword:0000000a
+"MaxConnectionsNumber"=dword:00000008
+"tvfrdt"=dword:77fe9492
+"ToolbarState_v5.11"=hex:15,80,00,00,16,80,00,00,17,80,00,00,18,80,00,00,19,80,\
+  00,00,1a,80,00,00,1b,80,00,00,1e,80,00,00,ee,84,00,00,ef,84,00,00,f2,80,00,\
+  00,14,80,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\ConfigTime]
+@=dword:64daa9aa
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\DwnlPanel]
+"FLV"=dword:00000001
+"MP3"=dword:00000001
+"MP4"=dword:00000001
+"M4V"=dword:00000001
+"F4V"=dword:00000001
+"M4A"=dword:00000001
+"MPG"=dword:00000001
+"MPEG"=dword:00000001
+"AVI"=dword:00000001
+"WMV"=dword:00000001
+"WMA"=dword:00000001
+"WAV"=dword:00000001
+"ASF"=dword:00000001
+"RM"=dword:00000001
+"OGG"=dword:00000001
+"OGV"=dword:00000001
+"MOV"=dword:00000001
+"3GP"=dword:00000001
+"QT"=dword:00000001
+"WEBM"=dword:00000001
+"TS"=dword:00000001
+"MKV"=dword:00000001
+"AAC"=dword:00000001
+"VTT"=dword:00000000
+"TTML"=dword:00000001
+"TTML2"=dword:00000001
+"DFXP"=dword:00000001
+"SRT"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\DwnlPanel\defminsizeset]
+"OGG"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\DwnlPanel\minsize]
+"MP3"=dword:0000c800
+"OGG"=dword:00019000
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\FoldersTree]
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\FoldersTree\Compressed]
+"ID"=dword:00000007
+"mask"="zip rar r0* r1* arj gz sit sitx sea ace bz2 7z"
+"pathW"=hex(0):43,00,3a,00,5c,00,55,00,73,00,65,00,72,00,73,00,5c,00,67,00,76,\
+  00,6a,00,68,00,62,00,76,00,6a,00,68,00,62,00,6d,00,6e,00,62,00,6c,00,6b,00,\
+  5c,00,44,00,6f,00,77,00,6e,00,6c,00,6f,00,61,00,64,00,73,00,5c,00,43,00,6f,\
+  00,6d,00,70,00,72,00,65,00,73,00,73,00,65,00,64,00,00,00
+"rememberLastPath"=dword:00000000
+"forSiteOnly"=dword:00000000
+"sites"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\FoldersTree\Documents]
+"ID"=dword:00000005
+"mask"="doc pdf ppt pps docx pptx"
+"pathW"=hex(0):43,00,3a,00,5c,00,55,00,73,00,65,00,72,00,73,00,5c,00,67,00,76,\
+  00,6a,00,68,00,62,00,76,00,6a,00,68,00,62,00,6d,00,6e,00,62,00,6c,00,6b,00,\
+  5c,00,44,00,6f,00,77,00,6e,00,6c,00,6f,00,61,00,64,00,73,00,5c,00,44,00,6f,\
+  00,63,00,75,00,6d,00,65,00,6e,00,74,00,73,00,00,00
+"rememberLastPath"=dword:00000000
+"forSiteOnly"=dword:00000000
+"sites"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\FoldersTree\Music]
+"ID"=dword:00000002
+"mask"="mp3 wav wma mpa ram ra aac aif m4a tsa"
+"pathW"=hex(0):43,00,3a,00,5c,00,55,00,73,00,65,00,72,00,73,00,5c,00,67,00,76,\
+  00,6a,00,68,00,62,00,76,00,6a,00,68,00,62,00,6d,00,6e,00,62,00,6c,00,6b,00,\
+  5c,00,44,00,6f,00,77,00,6e,00,6c,00,6f,00,61,00,64,00,73,00,5c,00,4d,00,75,\
+  00,73,00,69,00,63,00,00,00
+"rememberLastPath"=dword:00000000
+"forSiteOnly"=dword:00000000
+"sites"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\FoldersTree\Programs]
+"ID"=dword:00000001
+"mask"="exe msi"
+"pathW"=hex(0):43,00,3a,00,5c,00,55,00,73,00,65,00,72,00,73,00,5c,00,67,00,76,\
+  00,6a,00,68,00,62,00,76,00,6a,00,68,00,62,00,6d,00,6e,00,62,00,6c,00,6b,00,\
+  5c,00,44,00,6f,00,77,00,6e,00,6c,00,6f,00,61,00,64,00,73,00,5c,00,50,00,72,\
+  00,6f,00,67,00,72,00,61,00,6d,00,73,00,00,00
+"rememberLastPath"=dword:00000000
+"forSiteOnly"=dword:00000000
+"sites"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\FoldersTree\Video]
+"ID"=dword:00000003
+"mask"="avi mpg mpe mpeg asf wmv mov qt rm mp4 flv m4v webm ogv ogg mkv ts tsv"
+"pathW"=hex(0):43,00,3a,00,5c,00,55,00,73,00,65,00,72,00,73,00,5c,00,67,00,76,\
+  00,6a,00,68,00,62,00,76,00,6a,00,68,00,62,00,6d,00,6e,00,62,00,6c,00,6b,00,\
+  5c,00,44,00,6f,00,77,00,6e,00,6c,00,6f,00,61,00,64,00,73,00,5c,00,56,00,69,\
+  00,64,00,65,00,6f,00,00,00
+"rememberLastPath"=dword:00000000
+"forSiteOnly"=dword:00000000
+"sites"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\IDMBI]
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\IDMBI\brave]
+"name"="Brave Browser"
+"int"=dword:00000001
+"webext"=dword:00000034
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\IDMBI\chrome]
+"name"="Google Chrome"
+"int"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\IDMBI\Firefox]
+"name"="Mozilla Firefox"
+"int"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\IDMBI\IEXPLORE]
+"name"="Internet Explorer"
+"int"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\IDMBI\msedge]
+"name"="Microsoft Edge"
+"int"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\IDMBI\OPERA]
+"name"="Opera"
+"int"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\IDMBI\Safari]
+"name"="Apple Safari"
+"int"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\IDMBI\seamonkey]
+"name"="SeaMonkey"
+"int"=dword:00000001
+"found"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\IDMBI\seamonkey\0]
+"exe"="C:\\Program Files (x86)\\SeaMonkey\\seamonkey.exe"
+"vers"="2.53.16"
+"bEnabled"=dword:00000000
+"bExtensionInstalled"=dword:00000000
+"bPluginInstalled"=dword:00000000
+"isExtensionSupported"=dword:00000001
+"isff15"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\ListSettings]
+"FileName"=hex(0):96,00,00,00,01,00,00,00
+"DateAdded"=hex(0):41,00,00,00,00,00,00,00
+"Queue"=hex(0):14,00,00,00,01,00,00,00
+"Size"=hex(0):4b,00,00,00,01,00,00,00
+"Status"=hex(0):41,00,00,00,01,00,00,00
+"Timeleft"=hex(0):4b,00,00,00,01,00,00,00
+"TransferRate"=hex(0):5f,00,00,00,01,00,00,00
+"LastTry"=hex(0):41,00,00,00,01,00,00,00
+"Description"=hex(0):c8,00,00,00,01,00,00,00
+"SaveTo"=hex(0):c8,00,00,00,00,00,00,00
+"Referer"=hex(0):c8,00,00,00,00,00,00,00
+"Parent_wp"=hex(0):c8,00,00,00,00,00,00,00
+"Order639"=hex(0):00,00,00,00,02,00,00,00,03,00,00,00,04,00,00,00,05,00,00,00,\
+  06,00,00,00,07,00,00,00,08,00,00,00,01,00,00,00,09,00,00,00,0a,00,00,00,0b,\
+  00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\maxID]
+"maxID"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\MCN]
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\menuExt]
+"ffdownl1_str"="Pobierz przez IDM"
+"ffdownlAll_str"="Pobierz wszystkie linki przez IDM"
+"iedownl1_str"="Pobierz przez IDM"
+"ffdownlFLV_v"=dword:00000002
+"ffdownl10FLV_v"=dword:00000002
+"ffdownlAll_v"=dword:00000002
+"ffdownl1_v"=dword:00000001
+"iedownlAll_v"=dword:00000002
+"iedownl1_v"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\Passwords]
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\ProxyPac]
+"bUse"=dword:00000000
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\ProxyServers]
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\Queue]
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\Scheduler]
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\SpecialData]
+"lgfgf.1"=hex:2c,45,e5,33,97,95,8f,1d,94,9f,29,b9,5f,bd,b2,06,72,70,50,f1,5d,\
+  66,ac,c7,76,c3,eb,f2,c0,42,e7
+"lgfgf.2"=hex:56,60,5f,c1,0d,57,f5,af,19,3a,79,18,fa,ef,0b,61,b3,ca,fe,db,c8,\
+  d9,ae,e8,3a
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\SpecialKeys]
+"UseKeyToPrevent"=dword:00000001
+"UseKeyToForce"=dword:00000000
+"AltP"=dword:00000000
+"ShiftP"=dword:00000000
+"CtrlP"=dword:00000000
+"DelP"=dword:00000001
+"AltF"=dword:00000000
+"CtrlF"=dword:00000000
+"ShiftF"=dword:00000000
+"InsF"=dword:00000001
+"CheckMouse"=dword:00000000
+"SkipHtml"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\DownloadManager\WBProxy]
+
